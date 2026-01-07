@@ -1,0 +1,9 @@
+{
+  "name": "GeoPonto Pro - Sistema de Ponto Eletrônico",
+  "description": "Sistema avançado de registro de ponto eletrônico com geolocalização, reconhecimento facial (selfie) e painel administrativo antifraude.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
